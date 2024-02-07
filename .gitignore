@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Distribution files
+dist/
+
+# Transpiled JavaScript files 
+*.js
+*.js.map
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Executables
+battle-simulator-*
+
+# Editor directories and files
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.swp
+*~
